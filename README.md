@@ -9,7 +9,7 @@
 ![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted_image_20220526155854.png?raw=true)
 
 # TODO List page
-![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted_image_ _20220526155958.png?raw=true)
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted_image_20220526155958.png?raw=true)
 
 # Editing page
 ![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted_image_20220526155947.png?raw=true)
