@@ -2,21 +2,21 @@
 Это TODO веб-приложение. Фронт реализован на Angular, а бэкенд на Java Spring Framework(Security, JPA, Hibernate, H2 Database).
 
 # Login page
-
-![[Pasted image 20220526155717.png]]
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted image 20220526155717.png?raw=true)
 
 # Welcome page
-![[Pasted image 20220526155854.png]]
+
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted image 20220526155854.png?raw=true)
 
 # TODO List page
-![[Pasted image 20220526155958.png]]
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted image 20220526155958.png?raw=true)
 
 # Editing page
-![[Pasted image 20220526155947.png]]
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted image 20220526155947.png?raw=true)
 
 # Logout page
-![[Pasted image 20220526160007.png]]
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted image 20220526160007.png?raw=true)
 
 
 # H2 Database
-![[Pasted image 20220526160626.png]]
+![alt text](https://github.com/caputm0rtuum/portfolio__/blob/main/Pasted image 20220526160626.png?raw=true)
