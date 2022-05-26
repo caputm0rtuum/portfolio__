@@ -1,5 +1,5 @@
 # Портфолио
-Это TODO веб-приложение. Фронт реализован на Angular, а бэкенд на Java Spring Framework(Security, JPA, Hibernate, H2 Database).
+Это TODO веб-приложение. Фронт реализован на Angular & Bootstrap, а бэкенд на Java Spring Framework(Security, JPA, Hibernate, H2 Database).
 
 # Login page
 
